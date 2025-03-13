@@ -4,8 +4,19 @@
   "files": [
     ".all-contributors.md"
   ],
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Ndpnt",
+      "name": "Nicolas Dupont",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1098708?v=4",
+      "profile": "https://github.com/Ndpnt",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "repoType": "github",
   "commitConvention": "none",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitType": "docs"
 }
