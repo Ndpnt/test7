@@ -1,8 +1,8 @@
-# Declarations of terms tracked in the *<!-- here goes your collection name -->Demo<!-- until here -->* collection
+# Declarations of terms tracked in the *test7* collection
 
 The terms in this collection are declared by <!-- customize to your context -->the Open Terms Archive Core Team<!-- until here --> and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-You can [explore the tracked versions](https://github.com/OpenTermsArchive/demo-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/demo-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
+You can [explore the tracked versions](https://github.com/Ndpnt/test7-versions) interactively or [download them as a dataset](https://github.com/Ndpnt/test7-versions/releases) in the `Ndpnt/test7-versions` repository.
 
 ## Scope
 
